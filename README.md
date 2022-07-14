@@ -10,6 +10,11 @@
 
 > Udacity provided a link to the dataset. After some work, I found this was for one month only (Feb). Looked at knowledge base: https://knowledge.udacity.com/questions/668930 and them got the files from: https://s3.amazonaws.com/baywheels-data/index.html. This is slightly different dataset with some of the features are missing and others are present
 
+> After an initial investigation regarding the location of the satations. I found that they are located in 5 differnet cities in California: San Francisco, San Jose, Oakland, Berkeley and Emerville:
+
+![The 5 cities and the stations](5_cities_bike_sharing_sanFrancisco.png "Title")
+
+
 ## Summary of Findings
 
 > Surprisingly! The summer is not the highest utilization. May be it's too hot for biking. The highst months are spring and autumn months. Not  too cold and not too hot apparently
@@ -32,6 +37,13 @@
 
 ## Key Insights for Presentation
 
+> Note: I focussed a lot on the location of the stations. I can provide more usefull insights and include more pictures. However, du to time constraints I was not able to do so
+
 > Business Perspective: Our main customers are the Subscibers
 
-> Operation Perspective: We need to transport some bikes (carrting them using a truck or so) from high end stations to high start stations during peak hours: E.g.: Mon-Fri from 7-9 am: Move bikes from: `San Francisco Caltrain (Townsend St at 4th St)` to:`San Francisco Caltrain (Townsend St at 4th St)` station
+> Operation Perspective: We need to provide the best possible service and have the bikes available when and where needed. 
+* For this we can see that we need to send more bikes to the following station: `San Francisco Caltrain (Townsend St at 4th St)` in the morning during weekdays
+* Those bikes can mainly come from the following station: `Montgomery St BART Station (Market St at 2nd St)`
+* This is just an aexample on how can we support the operation. similar analysis needs to be done for other areas as well
+
+> I spent some of time for mapping visualization. I still have some work to do: Combining heatmap on Google maps and programatically generate the maps. [Google Create a heatmap](https://support.google.com/fusiontables/answer/1152262?hl=en) and (Heat map layer)[https://developers.google.com/maps/documentation/javascript/heatmaplayer]

@@ -1,0 +1,458 @@
+,Unnamed: 0,station_id,station_name,station_latitude,station_longitude,state,city,neighbourhood
+0,0,229.0,Foothill Blvd at 42nd Ave,37.7757452,-122.2130372,California,Oakland,Melrose
+1,1,4.0,Cyril Magnin St at Ellis St,37.7858806269,-122.4089150084,California,San Francisco,Union Square
+2,2,245.0,Downtown Berkeley BART,37.870139,-122.268422,California,Berkeley,Downtown Berkeley
+3,3,85.0,Church St at Duboce Ave,37.7700831,-122.4291557,California,San Francisco,Western Addition
+4,4,16.0,Steuart St at Market St,37.79413,-122.39443,California,San Francisco,Financial District
+5,6,34.0,Father Alfred E Boeddeker Park,37.7839879,-122.412408,California,San Francisco,Tenderloin
+6,7,318.0,San Carlos St at Market St,37.330698,-121.888979,California,San Jose,SoFA
+7,8,29.0,O'Farrell St at Divisadero St,37.7824046019,-122.4394458532,California,San Francisco,Western Addition
+8,9,223.0,16th St Mission BART Station 2,37.7647652155,-122.420091033,California,San Francisco,Mission District
+9,10,378.0,Empire St at 7th St,37.3477445655,-121.8907999992,California,San Jose,Hensley Historic District
+10,11,266.0,Parker St at Fulton St,37.8624644,-122.2647911,California,Berkeley,LeConte
+11,12,349.0,Howard St at Mary St,37.7810097172,-122.4056661129,California,San Francisco,West SoMa
+12,13,77.0,11th St at Natoma St,37.7735069,-122.4160402,California,San Francisco,Civic Center
+13,14,312.0,San Jose Diridon Station,37.329732,-121.901782,California,San Jose,Little Italy
+14,15,41.0,Golden Gate Ave at Polk St,37.78127,-122.41874,California,San Francisco,Civic Center
+15,16,305.0,Ryland Park,37.342725,-121.895617,California,San Jose,Hensley Historic District
+16,17,81.0,Berry St at 4th St,37.77588,-122.39317,California,San Francisco,South Beach
+17,18,370.0,Jones St at Post St,37.7873267661,-122.4132782221,California,San Francisco,Tenderloin
+18,19,121.0,Mission Playground,37.7592103,-122.4213392,California,San Francisco,Mission District
+19,20,25.0,Howard St at 2nd St,37.7875217805,-122.3974049091,California,San Francisco,Transbay
+20,21,95.0,Sanchez St at 15th St,37.7662185,-122.4310597,California,San Francisco,Duboce Triangle
+21,22,3.0,Powell St BART Station (Market St at 4th St),37.7863752686,-122.4049043655,California,San Francisco,Union Square
+22,23,201.0,10th St at Fallon St,37.7976728,-122.2629973,California,Oakland,Civic Center
+23,26,115.0,Jackson Playground,37.7650259,-122.3987734,California,San Francisco,Potrero Hill
+24,27,364.0,China Basin St at 3rd St,37.7719996,-122.3899698,California,San Francisco,Mission Bay
+25,28,18.0,Telegraph Ave at Alcatraz Ave,37.8502218745,-122.2601723671,California,Oakland,
+26,29,86.0,Market St at Dolores St,37.7693053,-122.4268256,California,San Francisco,Duboce Triangle
+27,32,17.0,Embarcadero BART Station (Beale St at Market St),37.792251,-122.397086,California,San Francisco,Financial District
+28,33,244.0,Shattuck Ave at Hearst Ave,37.8736762146,-122.268487215,California,Berkeley,Downtown Berkeley
+29,34,78.0,Folsom St at 9th St,37.7737172,-122.4116467,California,San Francisco,West SoMa
+30,35,278.0,The Alameda at Bush St,37.3319323,-121.9048882,California,San Jose,Little Italy
+31,36,104.0,4th St at 16th St,37.7670445797,-122.390833497,California,San Francisco,Mission Bay
+32,37,239.0,Bancroft Way at Telegraph Ave,37.8688126,-122.258764,California,Berkeley,Southside
+33,39,139.0,Garfield Square (25th St at Harrison St),37.7510171,-122.4119009,California,San Francisco,
+34,40,87.0,Folsom St at 13th St,37.769757,-122.415674,California,San Francisco,
+35,41,47.0,4th St at Harrison St,37.7809545996,-122.3997491598,California,San Francisco,South of Market
+36,42,99.0,Folsom St at 15th St,37.7670373,-122.4154425,California,San Francisco,
+37,44,73.0,Pierce St at Haight St,37.7717933,-122.4337079,California,San Francisco,
+38,45,74.0,Laguna St at Hayes St,37.7764348192,-122.4262440205,California,San Francisco,Western Addition
+39,46,274.0,Oregon St at Adeline St,37.8575672,-122.2675583,California,Berkeley,South Berkeley
+40,47,141.0,Valencia St at Cesar Chavez St,37.7479981,-122.4202187,California,San Francisco,
+41,49,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,California,San Francisco,South Beach
+42,50,311.0,Paseo De San Antonio at 2nd St,37.333798,-121.886943,California,San Jose,Downtown Historic District
+43,52,129.0,Harrison St at 20th St,37.758862,-122.412544,California,San Francisco,Mission District
+44,53,230.0,14th St at Mandela Pkwy,37.8107432,-122.2914153,California,Oakland,West Oakland
+45,54,130.0,22nd St Caltrain Station,37.7577184216,-122.3918125033,California,San Francisco,Dogpatch
+46,56,27.0,Beale St at Harrison St,37.7880593,-122.3918648,California,San Francisco,Rincon Hill
+47,58,13.0,Commercial St at Montgomery St,37.794231,-122.402923,California,San Francisco,Financial District
+48,59,22.0,Howard St at Beale St,37.789756,-122.394643,California,San Francisco,Transbay
+49,60,109.0,17th St at Valencia St,37.7633158,-122.4219039,California,San Francisco,Mission District
+50,61,14.0,Clay St at Battery St,37.795001,-122.39997,California,San Francisco,Financial District
+51,62,377.0,Fell St at Stanyan St,37.7719168826,-122.4537044764,California,San Francisco,Haight-Ashbury
+52,64,292.0,Empire St at 1st St,37.3448821,-121.8969655,California,San Jose,Hensley Historic District
+53,65,256.0,Hearst Ave at Euclid Ave,37.8751116929,-122.2605532408,California,Berkeley,Northside
+54,66,119.0,18th St at Noe St,37.7610471,-122.4326417,California,San Francisco,Castro District
+55,67,183.0,Telegraph Ave at 19th St,37.8087021,-122.2699271,California,Oakland,Uptown
+56,69,258.0,University Ave at Oxford St,37.8723555,-122.2664467,California,Berkeley,Downtown Berkeley
+57,70,235.0,Union St at 10th St,37.8072393,-122.2893702,California,Oakland,West Oakland
+58,72,89.0,Division St at Potrero Ave,37.7692178615,-122.4076455832,California,San Francisco,
+59,75,238.0,MLK Jr Way at University Ave,37.8717192,-122.2730677,California,Berkeley,Downtown Berkeley
+60,77,310.0,San Fernando St at 4th St,37.335885,-121.88566,California,San Jose,
+61,78,20.0,Mechanics Monument Plaza (Market St at Bush St),37.7913,-122.399051,California,San Francisco,Financial District
+62,79,262.0,West St at University Ave,37.8699667076,-122.2865331173,California,Berkeley,Central Berkeley
+63,82,54.0,Alamo Square (Steiner St at Fulton St),37.7775467702,-122.4332740903,California,San Francisco,Western Addition
+64,83,28.0,The Embarcadero at Bryant St,37.7871680147,-122.3880979233,California,San Francisco,
+65,87,250.0,North Berkeley BART Station,37.873558,-122.283093,California,Berkeley,Central Berkeley
+66,88,279.0,Santa Clara St at 7th St,37.3391456,-121.8841054,California,San Jose,
+67,91,70.0,Central Ave at Fell St,37.7733108789,-122.4442926049,California,San Francisco,North of Panhandle
+68,92,252.0,Channing Way at Shattuck Ave,37.8658466,-122.2674431,California,Berkeley,Downtown Berkeley
+69,94,75.0,Market St at Franklin St,37.7737932061,-122.4212390184,California,San Francisco,Hayes Valley
+70,95,58.0,Market St at 10th St,37.776619,-122.417385,California,San Francisco,Civic Center
+71,96,133.0,Valencia St at 22nd St,37.7552126,-122.4209752,California,San Francisco,Liberty Street Historic District
+72,98,11.0,Davis St at Jackson St,37.79728,-122.398436,California,San Francisco,Northeast Waterfront Historic District
+73,99,88.0,11th St at Bryant St,37.7700298,-122.4117258,California,San Francisco,
+74,101,385.0,Woolsey St at Sacramento St,37.8505777,-122.2781754,California,Berkeley,Harmon Tract
+75,103,336.0,Potrero Ave and Mariposa St,37.7632809406,-122.4073773623,California,San Francisco,
+76,104,127.0,Valencia St at 21st St,37.7567083,-122.421025,California,San Francisco,Liberty Street Historic District
+77,107,101.0,15th St at Potrero Ave,37.7670785046,-122.4073585868,California,San Francisco,
+78,109,341.0,Fountain Alley at S 2nd St,37.3361883003,-121.8892765045,California,San Jose,Downtown Historic District
+79,110,177.0,MacArthur Blvd at Telegraph Ave,37.8262863,-122.2651002,California,Oakland,Mosswood
+80,112,253.0,Haste St at College Ave,37.8664179405,-122.2537994385,California,Berkeley,Southside
+81,114,251.0,California St at University Ave,37.8705553291,-122.2797203064,California,Berkeley,Central Berkeley
+82,115,296.0,5th St at Virginia St,37.3259984,-121.87712,California,San Jose,
+83,116,6.0,The Embarcadero at Sansome St,37.80477,-122.403234,California,San Francisco,
+84,120,71.0,Broderick St at Oak St,37.7730627,-122.4390777,California,San Francisco,Western Addition
+85,122,163.0,Lake Merritt BART Station,37.7973195,-122.2653199,California,Oakland,Civic Center
+86,124,247.0,Fulton St at Bancroft Way,37.8677892,-122.2658964,California,Berkeley,Downtown Berkeley
+87,125,114.0,Rhode Island St at 17th St,37.7644783,-122.4025701,California,San Francisco,Potrero Hill
+88,127,243.0,Bancroft Way at College Ave,37.8693603,-122.2543374,California,Berkeley,Southside
+89,131,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,California,San Francisco,South Beach
+90,135,276.0,Julian St at The Alameda,37.3322326,-121.9125165,California,San Jose,
+91,137,196.0,Grand Ave at Perkins St,37.808893934,-122.2564601898,California,Oakland,Adams Point
+92,138,62.0,Victoria Manalo Draves Park,37.7777905703,-122.4064318836,California,San Francisco,West SoMa
+93,141,44.0,Civic Center/UN Plaza BART Station (Market St at McAllister St),37.7810737,-122.4117382,California,San Francisco,Tenderloin
+94,142,49.0,S Park St at 3rd St,37.7807601,-122.3949894,California,San Francisco,South Beach
+95,147,285.0,Webster St at O'Farrell St,37.7835208353,-122.4311578274,California,San Francisco,Western Addition
+96,148,92.0,Mission Bay Kids Park,37.7723006317,-122.393027544,California,San Francisco,Mission Bay
+97,149,66.0,3rd St at Townsend St,37.7787416115,-122.3927408271,California,San Francisco,South Beach
+98,150,93.0,4th St at Mission Bay Blvd S,37.7704074,-122.3911984,California,San Francisco,Mission Bay
+99,152,197.0,El Embarcadero at Grand Ave,37.8088479,-122.2496799,California,Oakland,Grand Lake
+100,153,24.0,Spear St at Folsom St,37.7896767,-122.3904285,California,San Francisco,Rincon Hill
+101,154,61.0,Howard St at 8th St,37.7765126,-122.4113061,California,San Francisco,West SoMa
+102,155,294.0,Pierce Ave at Market St,37.327581,-121.884559,California,San Jose,SoFA
+103,156,7.0,Frank H Ogawa Plaza,37.8045623549,-122.2717380524,California,Oakland,Downtown
+104,157,122.0,19th St at Mission St,37.760299,-122.418892,California,San Francisco,Mission District
+105,163,241.0,Ashby BART Station,37.8524766,-122.2702132,California,Berkeley,Lorin
+106,166,15.0,San Francisco Ferry Building (Harry Bridges Plaza),37.795392,-122.394203,California,San Francisco,
+107,170,166.0,College Ave at Alcatraz Ave,37.8513755,-122.2525233,California,Berkeley,Elmwood
+108,173,107.0,17th St at Dolores St,37.7630152,-122.4264968,California,San Francisco,Mission District
+109,174,26.0,1st St at Folsom St,37.78729,-122.39438,California,San Francisco,Rincon Hill
+110,175,10.0,Washington St at Kearny St,37.7953929373,-122.4047702551,California,San Francisco,Chinatown
+111,176,132.0,24th St at Chattanooga St,37.7518194,-122.4266139,California,San Francisco,Noe Valley
+112,183,76.0,McCoppin St at Valencia St,37.7716624622,-122.4224232137,California,San Francisco,Hayes Valley
+113,184,120.0,Mission Dolores Park,37.7614205,-122.4264353,California,San Francisco,Castro District
+114,189,21.0,Montgomery St BART Station (Market St at 2nd St),37.7896254,-122.400811,California,San Francisco,Union Square
+115,191,351.0,10th St at University Ave,37.8690604755,-122.2933995724,California,Berkeley,West Berkeley
+116,197,321.0,5th St at Folsom,37.7801457035,-122.4030708524,California,San Francisco,West SoMa
+117,198,269.0,Telegraph Ave at Carleton St,37.8623199,-122.258801,California,Berkeley,LeConte
+118,200,267.0,Derby St at College Ave,37.8618037,-122.2535687,California,Berkeley,Elmwood
+119,202,240.0,Haste St at Telegraph Ave,37.8660431,-122.2588044,California,Berkeley,Southside
+120,203,181.0,Grand Ave at Webster St,37.8113768,-122.2651925,California,Oakland,Financial District
+121,204,323.0,Broadway at Kearny,37.798013644,-122.4059504271,California,San Francisco,Telegraph Hill
+122,208,112.0,Harrison St at 17th St,37.7638471,-122.4130036,California,San Francisco,Mission District
+123,211,110.0,17th & Folsom Street Park (17th St at Folsom St),37.7637085,-122.4152042,California,San Francisco,Mission District
+124,212,356.0,Valencia St at Clinton Park,37.7691881781,-122.42228508,California,San Francisco,
+125,213,277.0,Morrison Ave at Julian St,37.3336577,-121.9085859,California,San Jose,College Park
+126,215,42.0,San Francisco City Hall (Polk St at Grove St),37.77865,-122.41823,California,San Francisco,Civic Center
+127,216,227.0,Foothill Blvd at Fruitvale Ave,37.7837569,-122.2226033,California,Oakland,Fruitvale
+128,219,137.0,Jersey St at Castro St,37.750506,-122.4339496,California,San Francisco,Noe Valley
+129,221,50.0,2nd St at Townsend St,37.780526,-122.390288,California,San Francisco,South Beach
+130,222,113.0,Franklin Square,37.764555,-122.410345,California,San Francisco,
+131,226,106.0,Sanchez St at 17th St,37.7632417,-122.4306746,California,San Francisco,Duboce Triangle
+132,227,383.0,Golden Gate Ave at Franklin St,37.7807871267,-122.4219337106,California,San Francisco,Civic Center
+133,233,270.0,Ninth St at Heinz Ave,37.8534894,-122.2894154,California,Berkeley,San Pablo Park
+134,238,36.0,Folsom St at 3rd St,37.78383,-122.39887,California,San Francisco,South of Market
+135,240,148.0,Horton St at 40th St,37.8297046,-122.2876102,California,,
+136,243,345.0,Hubbell St at 16th St,37.7664742152,-122.3982954025,California,San Francisco,Mission Bay
+137,249,179.0,Telegraph Ave at 27th St,37.816073115,-122.2678864002,California,Oakland,Northgate / Koreatown
+138,255,154.0,Doyle St at 59th St,37.8419238,-122.2880451,California,,
+139,257,254.0,Vine St at Shattuck Ave,37.8802224459,-122.2695922852,California,Berkeley,Gourmet Ghetto
+140,258,255.0,Virginia St at Shattuck Ave,37.8765725491,-122.2695279121,California,Berkeley,North Berkeley
+141,263,202.0,Washington St at 8th St,37.8007544,-122.2748943,California,Oakland,Old Oakland Historic District
+142,264,116.0,Mississippi St at 17th St,37.7648022,-122.3947713,California,San Francisco,Potrero Hill
+143,268,124.0,19th St at Florida St,37.7604469,-122.410807,California,San Francisco,Mission District
+144,272,371.0,Lombard St at Columbus Ave,37.8027461525,-122.4135786295,California,San Francisco,Russian Hill-Macondray Lane Historic District
+145,277,31.0,Raymond Kimbell Playground,37.7838127093,-122.4345588684,California,San Francisco,Western Addition
+146,280,33.0,Golden Gate Ave at Hyde St,37.7816495,-122.4154077,California,San Francisco,Tenderloin
+147,281,338.0,13th St at Franklin St,37.8031890811,-122.2705793381,California,Oakland,Downtown
+148,284,357.0,2nd St at Julian St,37.3411320355,-121.8928438425,California,San Jose,Saint James Square Historic District
+149,288,79.0,7th St at Brannan St,37.7734919,-122.4036725,California,San Francisco,West SoMa
+150,299,5.0,Powell St BART Station (Market St at 5th St),37.7838993571,-122.4084448814,California,San Francisco,Union Square
+151,301,123.0,Folsom St at 19th St,37.7605936,-122.4148171,California,San Francisco,Mission District
+152,304,35.0,Cahill Park,37.3291186681,-121.9045758247,California,San Jose,Little Italy
+153,312,218.0,DeFremery Park,37.8123315,-122.2851712,California,Oakland,West Oakland
+154,313,178.0,Broadway at 30th St,37.8193814,-122.2619284,California,Oakland,Oak Glen Park
+155,320,180.0,Telegraph Ave at 23rd St,37.8126783,-122.2687726,California,Oakland,Northgate / Koreatown
+156,322,246.0,Berkeley Civic Center,37.8690599,-122.270556,California,Berkeley,Downtown Berkeley
+157,327,268.0,Ellsworth St at Russell St,37.8574902146,-122.2615778446,California,Berkeley,LeConte
+158,328,350.0,8th St at Brannan St,37.7714313629,-122.4057868123,California,San Francisco,West SoMa
+159,329,195.0,Bay Pl at Vernon St,37.8123140914,-122.2607785463,California,Oakland,Westlake
+160,344,190.0,West St at 40th St,37.8302232,-122.2709501,California,Oakland,Longfellow
+161,348,55.0,Webster St at Grove St,37.7770527,-122.4295585,California,San Francisco,Western Addition
+162,351,182.0,19th Street BART Station,37.8090126,-122.2682473,California,Oakland,Uptown
+163,354,198.0,Snow Park,37.8078131822,-122.264496088,California,Oakland,Financial District
+164,360,90.0,Townsend St at 7th St,37.771058,-122.402717,California,San Francisco,West SoMa
+165,364,9.0,Broadway at Battery St,37.7985721085,-122.4008689821,California,San Francisco,Northeast Waterfront Historic District
+166,367,126.0,Esprit Park,37.7616343,-122.3906477,California,San Francisco,Dogpatch
+167,370,64.0,5th St at Brannan St,37.7767539,-122.3990176,California,San Francisco,South of Market
+168,372,8.0,The Embarcadero at Vallejo St,37.799953,-122.398525,California,San Francisco,
+169,375,343.0,Bryant St at 2nd St,37.7831719893,-122.3935720325,California,San Francisco,Rincon Hill
+170,382,171.0,Rockridge BART Station,37.844278754,-122.2519004345,California,Oakland,Rockridge
+171,384,136.0,23rd St at San Bruno Ave,37.7544356,-122.4043639,California,San Francisco,Potrero Terrace
+172,386,56.0,Koshland Park,37.77341397,-122.4273169041,California,San Francisco,Western Addition
+173,387,175.0,49th St at Telegraph Ave,37.8359455,-122.2623663,California,Oakland,Temescal
+174,388,314.0,Santa Clara St at Almaden Blvd,37.333988,-121.894902,California,San Jose,Little Italy
+175,389,172.0,College Ave at Taft Ave,37.8417999,-122.2515349,California,Oakland,Rockridge
+176,391,363.0,Salesforce Transit Center (Natoma St at 2nd St),37.7874921044,-122.3982846737,California,San Francisco,Transbay
+177,402,52.0,McAllister St at Baker St,37.7774157,-122.4418376,California,San Francisco,Western Addition
+178,406,324.0,Union Square (Powell St at Post St),37.7882999782,-122.4085307121,California,San Francisco,Union Square
+179,407,365.0,Turk St at Fillmore St,37.78045006,-122.4319463968,California,San Francisco,Western Addition
+180,429,211.0,Broadway at 40th St,37.8277573,-122.2567156,California,Oakland,Broadway Auto Row
+181,431,280.0,San Fernando St at 7th St,37.3371223729,-121.8832147121,California,San Jose,Saint James Square Historic District
+182,439,200.0,2nd Ave at E 18th St,37.800213567,-122.2538101673,California,Oakland,Merritt
+183,442,284.0,Yerba Buena Center for the Arts (Howard St at 3rd St),37.7848720844,-122.4008756876,California,San Francisco,
+184,456,155.0,Emeryville Public Market,37.8405211669,-122.2935283184,California,,
+185,458,317.0,San Salvador St at 9th St,37.333955,-121.877349,California,San Jose,Naglee Park
+186,461,59.0,S Van Ness Ave at Market St,37.774814,-122.418954,California,San Francisco,Hayes Valley
+187,470,19.0,Post St at Kearny St,37.788975,-122.403452,California,San Francisco,Union Square
+188,471,224.0,21st Ave at International Blvd,37.7848546623,-122.239304781,California,Oakland,San Antonio
+189,476,291.0,Autumn Parkway at Coleman Ave,37.3413348,-121.9031829,California,San Jose,Little Italy
+190,478,355.0,23rd St at Tennessee St,37.7553671322,-122.3887950182,California,San Francisco,Dogpatch
+191,484,237.0,Fruitvale BART Station,37.7752321,-122.2244982,California,Oakland,
+192,488,60.0,8th St at Ringold St,37.7745204011,-122.4094493687,California,San Francisco,West SoMa
+193,501,96.0,Dolores St at 15th St,37.7662102,-122.4266136,California,San Francisco,Noe Valley
+194,502,168.0,Alcatraz Ave at Shattuck Ave,37.8495949678,-122.2655689716,California,Oakland,Lorin
+195,505,46.0,San Antonio Park,37.7901398519,-122.2423732281,California,Oakland,San Antonio
+196,506,313.0,Almaden Blvd at San Fernando St,37.331415,-121.8932,California,San Jose,Downtown Historic District
+197,509,23.0,The Embarcadero at Steuart St,37.791464,-122.391034,California,San Francisco,
+198,515,142.0,Guerrero Park,37.7457387962,-122.4221402407,California,San Francisco,
+199,516,340.0,Harmon St at Adeline St,37.849735,-122.270582,California,Berkeley,Lorin
+200,519,194.0,Lakeshore Ave at Trestle Glen Rd,37.8110807,-122.2432677,California,Oakland,Lakeshore
+201,528,108.0,16th St Mission BART,37.7647100858,-122.4199569225,California,San Francisco,Mission District
+202,529,282.0,Market St at Park St,37.3324263013,-121.8903493881,California,San Jose,Downtown Historic District
+203,534,176.0,MacArthur BART Station,37.8284099731,-122.2663146257,California,Oakland,Mosswood
+204,538,259.0,Addison St at Fourth St,37.866249,-122.2993708,California,Berkeley,West Berkeley
+205,540,265.0,Ninth St at Parker St,37.8588682,-122.2912095,California,Berkeley,San Pablo Park
+206,545,63.0,Bryant St at 6th St,37.7759102223,-122.4025750067,California,San Francisco,West SoMa
+207,550,192.0,37th St at West St,37.8266955864,-122.271797061,California,Oakland,
+208,554,263.0,Channing Way at San Pablo Ave,37.8628271,-122.2902305,California,Berkeley,Poets Corner
+209,568,146.0,30th St at San Jose Ave,37.7423139,-122.4231805,California,San Francisco,
+210,579,97.0,14th St at Mission St,37.7682646,-122.4201102,California,San Francisco,
+211,580,80.0,Townsend St at 5th St,37.7752348686,-122.3974370956,California,San Francisco,South of Market
+212,583,339.0,Jackson St at 11th St,37.8000016312,-122.2664380074,California,Oakland,Civic Center
+213,593,134.0,Valencia St at 24th St,37.7524278,-122.4206278,California,San Francisco,Noe Valley
+214,608,373.0,Potrero del Sol Park (25th St at Utah St),37.7517916453,-122.4052155018,California,San Francisco,Potrero Terrace
+215,617,100.0,Bryant St at 15th St,37.7671004,-122.410662,California,San Francisco,
+216,634,125.0,20th St at Bryant St,37.7592005,-122.409851,California,San Francisco,Mission District
+217,652,43.0,San Francisco Public Library (Grove St at Hyde St),37.7787677,-122.4159292,California,San Francisco,Civic Center
+218,666,39.0,Scott St at Golden Gate Ave,37.7789994,-122.4368608,California,San Francisco,Western Addition
+219,683,214.0,Market St at Brockhurst St,37.8233214,-122.2757325,California,Oakland,Hoover-Foster
+220,688,369.0,Hyde St at Post St,37.7873490232,-122.4166510999,California,San Francisco,Tenderloin
+221,690,193.0,Grand Ave at Santa Clara Ave,37.8127441,-122.2472152,California,Oakland,Grand Lake
+222,694,207.0,Broadway at Coronado Ave,37.8357883,-122.2516207,California,Oakland,Temescal
+223,700,337.0,Webster St at 19th St,37.806969761,-122.2665882111,California,Oakland,Financial District
+224,718,157.0,65th St at Hollis St,37.8467842,-122.2913761,California,,
+225,721,381.0,20th St at Dolores St,37.7582384242,-122.4260938168,California,San Francisco,Mission District
+226,722,368.0,Myrtle St at Polk St,37.7854338279,-122.4196216464,California,San Francisco,Tenderloin
+227,740,145.0,29th St at Church St,37.7436839,-122.4268059,California,San Francisco,Noe Valley
+228,775,144.0,Precita Park,37.7472996,-122.4114029,California,San Francisco,Bernal Heights
+229,793,37.0,2nd St at Folsom St,37.7849997283,-122.3959356175,California,San Francisco,Transbay
+230,796,72.0,Page St at Scott St,37.772406,-122.4356498,California,San Francisco,Western Addition
+231,822,380.0,Masonic Ave at Turk St,37.7790466585,-122.4472913146,California,San Francisco,Haight-Ashbury
+232,837,153.0,59th St at Horton St,37.8409452,-122.2913604,California,,
+233,842,105.0,16th St at Prosper St,37.764285,-122.4318042,California,San Francisco,Duboce Triangle
+234,843,210.0,45th St at Manila,37.8332935222,-122.2562241554,California,Oakland,Temescal
+235,846,131.0,22nd St at Dolores St,37.7550002604,-122.4257276952,California,San Francisco,Noe Valley
+236,847,167.0,College Ave at Harwood Ave,37.848152,-122.2521599,California,Oakland,Rockridge
+237,852,327.0,5th St at San Salvador St,37.332038681,-121.8817663193,California,San Jose,SoFA
+238,858,281.0,9th St at San Fernando St,37.3383952,-121.8807965,California,San Jose,
+239,883,147.0,29th St at Tiffany Ave,37.7440667,-122.4214722,California,San Francisco,
+240,885,372.0,Madison St at 17th St,37.804036784,-122.2624093294,California,Oakland,Lakeside
+241,905,206.0,College Ave at Bryant Ave,37.8381269,-122.2512714,California,Oakland,Rockridge
+242,911,160.0,West Oakland BART Station,37.8053183,-122.2948365,California,Oakland,South Prescott
+243,948,91.0,Berry St at King St,37.7717621103,-122.3984375596,California,San Francisco,Mission Bay
+244,973,309.0,San Jose City Hall,37.337391,-121.886995,California,San Jose,
+245,997,204.0,55th St at Telegraph Ave,37.8401858,-122.2618225,California,Oakland,Idora Park
+246,1017,53.0,Grove St at Divisadero,37.775946,-122.4377775,California,San Francisco,Western Addition
+247,1019,213.0,32nd St at Adeline St,37.8238474,-122.2811926,California,Oakland,Hoover-Foster
+248,1035,158.0,Shattuck Ave at Telegraph Ave,37.8332786,-122.2634901,California,Oakland,Temescal
+249,1071,219.0,Marston Campbell Park,37.8098236,-122.2801923,California,Oakland,San Pablo Gateway
+250,1094,102.0,Irwin St at 8th St,37.7668828,-122.3995794,California,San Francisco,
+251,1113,242.0,Milvia St at Derby St,37.8601245991,-122.269384414,California,Berkeley,South Berkeley
+252,1120,149.0,Emeryville Town Hall,37.8312752,-122.2856333,California,,
+253,1152,248.0,Telegraph Ave at Ashby Ave,37.8559558,-122.2597949,California,Berkeley,Elmwood
+254,1202,289.0,5th St at Taylor St,37.3510173,-121.8959209,California,San Jose,Hensley Historic District
+255,1237,162.0,Franklin St at 9th St,37.8005161,-122.2720799,California,Oakland,Chinatown
+256,1259,186.0,Lakeside Dr at 14th St,37.8013189,-122.2626418,California,Oakland,Lakeside
+257,1298,169.0,Bushrod Park,37.8465156,-122.2653043,California,Oakland,Idora Park
+258,1314,140.0,Cesar Chavez St at Dolores St,37.7478584,-122.4249863,California,San Francisco,Noe Valley
+259,1380,360.0,Newhall St at 3rd St,37.7385718713,-122.3896177858,California,San Francisco,Bayview District
+260,1427,232.0,MLK Jr Way at 14th St,37.8061628,-122.2760402,California,Oakland,San Pablo Gateway
+261,1448,233.0,4th Ave at E 12th St (Temporary Location),37.795913,-122.255547,California,Oakland,San Antonio
+262,1488,118.0,Eureka Valley Recreation Center,37.7591769,-122.4369431,California,San Francisco,Castro District
+263,1541,273.0,Fulton St at Ashby Ave,37.8555736618,-122.2635653615,California,Berkeley,LeConte
+264,1544,222.0,10th Ave at E 15th St,37.7927143,-122.2487796,California,Oakland,San Antonio
+265,1554,84.0,Duboce Park,37.7692005,-122.4338119,California,San Francisco,Western Addition
+266,1571,220.0,San Pablo Ave at MLK Jr Way,37.8113514,-122.2734217,California,Oakland,San Pablo Gateway
+267,1578,189.0,Genoa St at 55th St,37.8396488,-122.2717561,California,Oakland,Longfellow
+268,1715,138.0,Jersey St at Church St,37.7509004,-122.4274114,California,San Francisco,Noe Valley
+269,1753,315.0,Market St at 45th St,37.834174,-122.272968,California,Oakland,Longfellow
+270,1754,187.0,Jack London Square,37.796248,-122.279352,California,Oakland,Jack London Square
+271,1767,209.0,45th St at MLK Jr Way,37.8335577,-122.2674183,California,Oakland,
+272,1865,188.0,Dover St at 57th St,37.8426295,-122.267738,California,Oakland,Lorin
+273,1874,257.0,Fifth St at Delaware St,37.8704071155,-122.2996759415,California,Berkeley,
+274,1962,231.0,14th St at Filbert St,37.8087498347,-122.28328228,California,Oakland,West Oakland
+275,2003,203.0,Webster St at 2nd St,37.7951947644,-122.2739696503,California,Oakland,Jack London Square
+276,2033,151.0,53rd St at Hollis St,37.8361823,-122.2871801,California,,
+277,2039,191.0,Market St at 40th St,37.8305452,-122.2739367,California,Oakland,Longfellow
+278,2070,308.0,San Pedro Square,37.336802,-121.8940901,California,San Jose,
+279,2071,212.0,Mosswood Park,37.82489253,-122.2604365461,California,Oakland,Broadway Auto Row
+280,2149,205.0,Miles Ave at Cavour St,37.8388,-122.258732,California,Oakland,Temescal
+281,2409,150.0,Adeline St at 40th St,37.8312769,-122.2782669,California,,
+282,2456,297.0,Locust St at Grant St,37.3229796,-121.8879312,California,San Jose,Washington
+283,2499,159.0,24th St at Market St,37.8160598,-122.2782444,California,Oakland,West Oakland
+284,2539,299.0,Bestor Art Park,37.3236779,-121.8741186,California,San Jose,
+285,2549,236.0,Market St at 8th St,37.8036865,-122.282497,California,Oakland,Old Oakland Historic District
+286,2614,249.0,Russell St at College Ave,37.8584732,-122.2532529,California,Berkeley,Elmwood
+287,2728,271.0,San Pablo Park,37.8557833203,-122.2831267118,California,Berkeley,San Pablo Park
+288,2842,361.0,Mendell St at Fairfax Ave,37.739853018,-122.3856554925,California,San Francisco,Bayview District
+289,2865,362.0,Lane St at Revere Ave,37.7317266935,-122.3900556564,California,San Francisco,Bayview District
+290,2906,286.0,San Carlos St at 11th St,37.3364659,-121.8766132,California,San Jose,Naglee Park
+291,2911,152.0,47th St at San Pablo Ave,37.8356322046,-122.2810506821,California,,
+292,2977,234.0,Farnam St at Fruitvale Ave,37.778058,-122.2254,California,Oakland,Fruitvale
+293,3070,216.0,San Pablo Ave at 27th St,37.8178269,-122.2756976,California,Oakland,Hoover-Foster
+294,3162,316.0,San Salvador St at 1st St,37.330165,-121.885831,California,San Jose,SoFA
+295,3359,174.0,Shattuck Ave at 51st St,37.8368013,-122.2640037,California,Oakland,Idora Park
+296,3378,304.0,Jackson St at 5th St,37.3487586867,-121.8947978318,California,San Jose,Hensley Historic District
+297,3393,275.0,Julian St at 6th St,37.3429973,-121.8888891,California,San Jose,Saint James Square Historic District
+298,3565,215.0,34th St at Telegraph Ave,37.8225475,-122.2663179,California,Oakland,Pill Hill
+299,3611,288.0,Mission St at 1st St,37.3509643,-121.9020161,California,San Jose,Civic Center
+300,3635,156.0,Stanford Ave at Hollis St,37.8384435,-122.2886647,California,,
+301,3640,306.0,Saint James Park,37.339301,-121.889937,California,San Jose,Saint James Square Historic District
+302,3768,301.0,Willow St at Vine St,37.3184498,-121.8831724,California,San Jose,Washington
+303,3770,287.0,Almaden Blvd at Balbach St,37.32673,-121.8892731,California,San Jose,SoFA
+304,3778,170.0,Telegraph Ave at 58th St,37.8444927,-122.261351,California,Oakland,Idora Park
+305,3998,359.0,Williams Ave at Apollo St,37.7301675082,-122.3989632726,California,San Francisco,Silver Terrace
+306,4015,298.0,Oak St at 1st St,37.3221246254,-121.8810904026,California,San Jose,Washington
+307,4039,283.0,Delmas Ave and San Fernando St,37.3302641,-121.8977018,California,San Jose,Little Italy
+308,4235,217.0,27th St at MLK Jr Way,37.8170154,-122.2717615,California,Oakland,Northgate / Koreatown
+309,4672,221.0,6th Ave at E 12th St (Temporary Location),37.794396,-122.253842,California,Oakland,San Antonio
+310,4686,173.0,Shattuck Ave at 55th St,37.8403643,-122.2644881,California,Oakland,Idora Park
+311,5027,228.0,Foothill Blvd at Harrington Ave,37.77993,-122.2177284,California,Oakland,Fruitvale
+312,5148,358.0,Williams Ave at 3rd St,37.7292786517,-122.3928961158,California,San Francisco,Bayview District
+313,5600,307.0,SAP Center,37.332692,-121.900084,California,San Jose,Little Italy
+314,5950,295.0,William St at 10th St,37.3327938,-121.8759263,California,San Jose,Naglee Park
+315,6063,375.0,Grove St at Masonic Ave,37.7748362941,-122.4465456605,California,San Francisco,Haight-Ashbury
+316,7279,303.0,San Pedro St at Hedding St,37.352601,-121.905733,California,San Jose,Civic Center
+317,8022,164.0,Isabella St at San Pablo Ave,37.8149882304,-122.2748440504,California,Oakland,San Pablo Gateway
+318,9525,290.0,George St at 1st St,37.3477319,-121.899464,California,San Jose,Civic Center
+319,10394,226.0,26th Ave at International Blvd,37.781123,-122.2329915,California,Oakland,Jingletown
+320,10459,225.0,23rd Ave at Foothill Blvd,37.7851915,-122.2343822,California,Oakland,
+321,19045,300.0,Palm St at Willow St,37.3172979,-121.884995,California,San Jose,
+322,20125,98.0,Valencia St at 16th St,37.765052,-122.4218661,California,San Francisco,Mission District
+323,23480,272.0,Woolsey St at Sacramento St1,37.850577684,-122.278175354,California,Berkeley,Harmon Tract
+324,23620,345.0,Hubbell St at 16th St,37.7664826964,-122.3982793093,California,San Francisco,Mission Bay
+325,23624,386.0,24th St at Bartlett St,37.7521049844,-122.4197235703,California,San Francisco,Liberty Street Historic District
+326,23663,130.0,22nd St Caltrain Station,37.7572884078,-122.3920512199,California,San Francisco,Dogpatch
+327,23669,51.0,Parker Ave at McAllister St,37.7761009126,-122.4530929327,California,San Francisco,Haight-Ashbury
+328,23689,398.0,Leavenworth St at Broadway,37.7964706916,-122.41685763,California,San Francisco,Russian Hill-Paris Block Architectural District
+329,23870,344.0,16th St Depot,37.7663485859,-122.3962917924,California,San Francisco,Mission Bay
+330,24015,388.0,Backesto Park (Jackson St at 13th St),37.3528868273,-121.8860498071,California,San Jose,
+331,24134,389.0,Taylor St at 9th St,37.3530616613,-121.8919372559,California,San Jose,
+332,28647,37.0,2nd St at Folsom St,37.7853765938,-122.3969060183,California,San Francisco,Transbay
+333,28649,390.0,Indiana St at Cesar Chavez St,37.7504343571,-122.390447259,California,San Francisco,Potrero Terrace
+334,28658,400.0,Buchanan St at North Point St,37.8042720199,-122.4335369468,California,San Francisco,
+335,28674,395.0,Kerley Dr at Rosemary St,37.3608541553,-121.9068342447,California,San Jose,
+336,28679,399.0,Bay St at Fillmore St,37.8026359497,-122.4362888932,California,San Francisco,Marina District
+337,28686,393.0,Asbury St at The Alameda,37.3380095179,-121.9194272161,California,San Jose,College Park
+338,28688,384.0,Jackson St at Polk St,37.7941604417,-122.421567589,California,San Francisco,Nob Hill
+339,28699,401.0,Skyport Dr at Technology Dr,37.3652265519,-121.9168147445,California,San Jose,
+340,28774,387.0,Randall St at Chenery St,37.7398127173,-122.4255225062,California,San Francisco,Glen Park
+341,28812,407.0,Bird Ave at Coe Ave,37.31515793,-121.8978327513,California,San Jose,
+342,28909,352.0,Goettingen St at Bacon St,37.7269429662,-122.4065995216,California,San Francisco,Portola
+343,29074,397.0,Gish Rd at 1st St,37.3618668003,-121.9093152881,California,San Jose,
+344,29448,394.0,10th St at Empire St,37.3494263088,-121.8876188993,California,San Jose,Hensley Historic District
+345,29524,391.0,1st St at Younger Ave,37.3550295823,-121.9044363499,California,San Jose,Civic Center
+346,29749,402.0,Raymond Bernal Jr Memorial Park (8th St at Hedding St),37.3568343528,-121.8959357589,California,San Jose,
+347,29756,392.0,Sonora Ave at 1st St,37.3640604623,-121.9117319584,California,San Jose,
+348,29957,403.0,10th St at Mission St,37.3556926512,-121.8922510743,California,San Jose,
+349,30024,396.0,Metro Dr at Technology Dr,37.3676780524,-121.9187942147,California,San Jose,
+350,33544,406.0,Parkmoor Ave at Race St,37.3167364785,-121.9100046158,California,San Jose,
+351,33546,411.0,Octavia Blvd at Page St,37.7740179377,-122.4238085747,California,San Francisco,Western Addition
+352,33553,409.0,2100 Powell St,37.8395430827,-122.2987177223,California,,
+353,33555,376.0,Illinois St at 20th St,37.7604575554,-122.3875397444,California,San Francisco,Dogpatch
+354,33575,417.0,Park Ave at Race St,37.3260108479,-121.9123274088,California,San Jose,
+355,33629,416.0,Auzerais Ave at Los Gatos Creek Trail,37.3211818343,-121.9030898809,California,San Jose,
+356,33647,410.0,Illinois St at Cesar Chavez St,37.7502000103,-122.3865674436,California,San Francisco,
+357,33673,412.0,Glen Park BART Station,37.7328128005,-122.4341404438,California,San Francisco,Glen Park
+358,33735,405.0,Sunol St at San Carlos St,37.3234513387,-121.9059759378,California,San Jose,
+359,33771,418.0,17th St at Santa Clara St,37.343984678,-121.8743848801,California,San Jose,Naglee Park
+360,33918,415.0,Delmas Ave at Virginia St,37.31975696,-121.8929994106,California,San Jose,
+361,36262,25.0,Howard St at 2nd St,37.7869282568,-122.3981130123,California,San Francisco,Transbay
+362,36263,424.0,Greenwich St at Webster St,37.7992079263,-122.4341216683,California,San Francisco,Cow Hollow
+363,36264,316.0,1st St at San Carlos Ave,37.3311679942,-121.8869376183,California,San Jose,SoFA
+364,36266,419.0,Fern St at Polk St,37.7881969078,-122.4203726649,California,San Francisco,Tenderloin
+365,36282,422.0,Stockton Ave at Lenzen Ave,37.3367747628,-121.9091489911,California,San Jose,College Park
+366,36323,427.0,Auzerais Ave at Lincoln Ave,37.3209685315,-121.9082960486,California,San Jose,
+367,36372,425.0,Bird Ave at Willow St,37.3112839461,-121.8963253498,California,San Jose,
+368,36394,426.0,San Carlos St at Meridian Ave,37.3233446906,-121.9134968519,California,San Jose,
+369,36497,404.0,21st St at Santa Clara St,37.3457587953,-121.8706780672,California,San Jose,
+370,36644,423.0,South San Jose State (7th St at Humboldt St),37.3203158211,-121.8700987101,California,San Jose,
+371,36765,413.0,Balboa Park BART Station,37.7205549887,-122.4477231503,California,San Francisco,Ingleside
+372,37163,421.0,23rd St at Taylor St,37.360001391,-121.8787783384,California,San Jose,
+373,38168,130.0,22nd St Caltrain Station,37.7577040415,-122.391884923,California,San Francisco,Dogpatch
+374,38184,440.0,Carl St at Cole St,37.7659102072,-122.4492573738,California,San Francisco,Cole Valley
+375,38238,433.0,Gennessee St at Monterey Blvd,37.73165669,-122.4511215091,California,San Francisco,
+376,38292,443.0,3rd St at Keyes St,37.3208661459,-121.8762785196,California,San Jose,
+377,38307,431.0,Judson Ave at Gennessee St,37.7282815925,-122.4506950378,California,San Francisco,Ingleside
+379,39939,377.0,Fell St at Stanyan St,37.7719511,-122.4537048,California,San Francisco,Haight-Ashbury
+380,39983,208.0,4th St at San Carlos St,37.3327995239,-121.8838503957,California,San Jose,SoFA
+381,40194,234.0,Fruitvale Ave at International Blvd,37.778058,-122.2254,California,Oakland,Fruitvale
+382,41029,393.0,Asbury St at The Alameda,37.3380223131,-121.919478178,California,San Jose,College Park
+383,41070,390.0,Indiana St at Cesar Chavez St,37.7504343571,-122.3904472589,California,San Francisco,Potrero Terrace
+384,41126,428.0,Howard workshop - Station in a Box,37.7746611,-122.4163076,California,San Francisco,Civic Center
+385,41184,182.0,19th Street BART Station,37.8093686121,-122.2679507732,California,Oakland,Uptown
+386,41243,65.0,Emeryville Depot,37.8302961827,-122.289429903,California,,
+387,41278,277.0,W Julian St at N Morrison St,37.3336120764,-121.9087815285,California,San Jose,
+388,41281,446.0,Mint St at Mission St,37.7822795298,-122.4073129892,California,San Francisco,West SoMa
+389,41284,459.0,Utah St at 24th St,37.7531234601,-122.4053925276,California,San Francisco,Potrero Hill
+390,41291,445.0,Natoma St at New Montgomery St,37.7865530626,-122.3996070027,California,San Francisco,Transbay
+391,41300,37.0,Folsom St at 2nd St,37.7853765938,-122.3969060183,California,San Francisco,Transbay
+392,41303,316.0,1st St at San Carlos St,37.3311679942,-121.8869376183,California,San Jose,SoFA
+393,41326,393.0,Emory St at The Alameda,37.3386364842,-121.9209909439,California,San Jose,
+394,41522,378.0,7th St at Empire St,37.3477119818,-121.890553236,California,San Jose,Hensley Historic District
+395,41623,290.0,Jackson St at N 1st St,37.34704671,-121.8983209133,California,San Jose,Hensley Historic District
+396,42684,367.0,Outside Lands (Temporary Station),37.771104,-122.473658,California,San Francisco,
+397,43149,465.0,San Francisco Caltrain Station (King St at 4th St),37.7763288173,-122.394438386,California,San Francisco,South Beach
+398,43154,453.0,Brannan St at 4th St,37.7779336701,-122.3969730735,California,San Francisco,South of Market
+399,43164,12.0,Pier 1/2 at The Embarcadero,37.7963894,-122.3945855,California,San Francisco,
+400,43165,460.0,Terry Francois Blvd at Warriors Way,37.7690948873,-122.3863327503,California,San Francisco,
+401,43170,441.0,Chestnut St at Van Ness Ave,37.8022883861,-122.4245086312,California,San Francisco,Russian Hill
+402,43172,462.0,Cruise Terminal at Pier 27,37.8042232774,-122.4016427994,California,San Francisco,
+403,43187,461.0,Terry Francois Blvd at Mission Bay Blvd N,37.7713295942,-122.3866224289,California,San Francisco,
+404,43194,38.0,The Embarcadero at Pier 38,37.782926087,-122.3879206181,California,San Francisco,
+405,43196,436.0,McKinnon Ave at 3rd St,37.7362958722,-122.3899698257,California,San Francisco,Bayview District
+406,43199,434.0,Carroll Ave at 3rd St,37.7253751941,-122.3940199614,California,San Francisco,
+407,43207,455.0,McAllister St at Arguello Blvd,37.7752136679,-122.4583339691,California,San Francisco,Haight-Ashbury
+408,43245,454.0,7th Ave at Cabrillo St,37.7751755066,-122.4650073051,California,San Francisco,Richmond District
+409,43368,456.0,Arguello Blvd at Geary Blvd,37.7814676154,-122.4588060379,California,San Francisco,Jordan Park
+410,43423,438.0,Oakdale Ave at Phelps St,37.7368516212,-122.3942506313,California,San Francisco,Bayview District
+411,43499,289.0,N 3rd St at E Taylor St,37.3499977424,-121.8980097771,California,San Jose,Hensley Historic District
+412,43727,463.0,Heron's Head Park,37.7403217764,-122.3767840862,California,San Francisco,
+413,43728,470.0,N 14th St at E Santa Clara St,37.3426625921,-121.8772923946,California,San Jose,Naglee Park
+414,44016,435.0,Jennings St at Revere Ave,37.7293932066,-122.3865365982,California,San Francisco,Bayview District
+415,46017,321.0,Folsom St at 5th St,37.7806450925,-122.4028658867,California,San Francisco,West SoMa
+416,46018,467.0,Brannan St at Colin P Kelly Jr St,37.7823857881,-122.3913431168,California,San Francisco,South Beach
+417,46027,475.0,22nd St at William St,37.3403787407,-121.8640208244,California,San Jose,Naglee Park
+418,46034,468.0,Grove St at Gough St,37.7778700702,-122.42295295,California,San Francisco,Western Addition
+419,46040,442.0,Newbury Park Dr at King Rd,37.3655356586,-121.8679663539,California,San Jose,
+420,46046,439.0,Post St at Divisadero St,37.7843718111,-122.4394780397,California,San Francisco,Western Addition
+421,46061,482.0,Brannan St at 7th St,37.7726578771,-122.4036812782,California,San Francisco,West SoMa
+422,46084,432.0,Quesada Ave at 3rd St,37.7330928099,-122.3909729719,California,San Francisco,Bayview District
+423,46091,474.0,14th Ave at Geary Blvd,37.7804712592,-122.4728232622,California,San Francisco,Richmond District
+424,46107,277.0,W Julian St at N Morrison St,37.3336771229,-121.9086179137,California,San Jose,College Park
+425,46136,466.0,5th Ave at Anza St,37.7794876092,-122.4631418288,California,San Francisco,Jordan Park
+426,46219,472.0,Columbia Ave at Bird Ave,37.3241259512,-121.8997196853,California,San Jose,
+427,46279,469.0,Ellis St at Pierce St,37.7819816875,-122.4357698858,California,San Francisco,Western Addition
+428,46317,437.0,Evans Ave at Mendell St,37.7401775434,-122.383736372,California,San Francisco,Bayview District
+429,46346,471.0,Turk Blvd at Stanyan St,37.7776093103,-122.4546217918,California,San Francisco,Haight-Ashbury
+430,46587,473.0,Willow St at Blewett Ave,37.3090140743,-121.900010705,California,San Jose,
+431,46730,476.0,19th St at William St,37.3384680141,-121.8665206432,California,San Jose,Naglee Park
+432,47257,429.0,Prototype Lab,37.7200351855,-122.4952411652,California,San Francisco,
+433,47941,408.0,MTL-ECO5-01,37.718513,-122.38832,California,San Francisco,
+434,47942,408.0,MTL-ECO5-01,37.72,-122.39,California,San Francisco,
+435,48890,480.0,Steiner St at California St,37.7885689142,-122.435401082,California,San Francisco,Western Addition
+436,48896,493.0,Folsom St at 7th St,37.7766637828,-122.4079084396,California,San Francisco,West SoMa
+437,48897,487.0,Powell St at Columbus Ave,37.8004960367,-122.4108870327,California,San Francisco,North Beach
+438,48902,481.0,O'Farrell St at Masonic Ave,37.7811305517,-122.4473744631,California,San Francisco,Western Addition
+439,48917,485.0,Funston Ave at Fulton St,37.773263176,-122.4712300301,California,San Francisco,Richmond District
+440,48939,489.0,Funston Ave at Clement St,37.782497876,-122.4719676375,California,San Francisco,Richmond District
+441,48955,486.0,Arguello Blvd at Edward St,37.7784869864,-122.4586451054,California,San Francisco,Jordan Park
+442,48956,483.0,7th St at King St,37.7712290179,-122.4008864164,California,San Francisco,West SoMa
+443,48963,490.0,9th Ave at Geary Blvd,37.7818407155,-122.46763587,California,San Francisco,Richmond District
+444,48969,478.0,Greenwich St at Franklin St,37.8002544308,-122.4259194732,California,San Francisco,Russian Hill
+445,48971,477.0,17th Ave at Geary Blvd,37.7807198858,-122.4761036038,California,San Francisco,Richmond District
+446,48986,408.0,MTL-ECO5-01,37.7180271461,-122.3878616095,California,San Francisco,
+447,48987,492.0,Webster St at Clay St,37.7908030324,-122.432590127,California,San Francisco,Western Addition
+448,49061,491.0,Devine St at San Pedro St,37.3386706046,-121.8956440687,California,San Jose,Saint James Square Historic District
+449,49147,488.0,Egbert Ave at Jennings St,37.7226299219,-122.3924964666,California,San Francisco,
+450,49149,289.0,5th St at Taylor St,37.3509017927,-121.8958425522,California,San Jose,Hensley Historic District
+451,49480,290.0,George St at 1st St,37.3475925744,-121.8996620178,California,San Jose,Civic Center
+453,51036,458.0,Frederick St at Arguello Blvd,37.7657829868,-122.4576365948,California,San Francisco,Cole Valley
+454,51059,495.0,St James St at 9th St,37.3432084885,-121.8843895197,California,San Jose,
+455,51064,498.0,Frida Kahlo Way at Cloud Cir,37.7258897888,-122.4524438381,California,San Francisco,Ingleside
+456,51284,229.0,Foothill Blvd at 42nd Ave,37.7742341882,-122.2124826908,California,Oakland,Melrose
+457,51373,444.0,Mercado Way at Sierra Rd,37.3711164134,-121.8813318014,California,San Jose,
+458,51751,494.0,Park Ave at Laurel Grove Ln,37.3262823241,-121.9049111009,California,San Jose,
